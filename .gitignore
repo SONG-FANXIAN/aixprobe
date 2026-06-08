@@ -1,0 +1,13 @@
+# 固件二进制
+firmware/*.bin
+firmware/*.hex
+firmware/*.elf
+firmware/*.axf
+
+# Python
+__pycache__/
+*.pyc
+
+# 系统
+.DS_Store
+Thumbs.db
